@@ -1,1 +1,2 @@
-My name is Manish.I love computers
+My name is Manish.I love computers.
+Devops is cool.
